@@ -1,0 +1,5 @@
+name: JGNHungerCancel
+version: '${project.version}'
+main: hc.hungry_cancel.Hungry_Cancel
+api-version: 1.19
+authors: [ JGNoraejarang ]
